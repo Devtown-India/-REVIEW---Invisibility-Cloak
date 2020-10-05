@@ -1,0 +1,3 @@
+numpy :- conda install numpy
+opencv :- conda install -c conda-forge opencv
+
